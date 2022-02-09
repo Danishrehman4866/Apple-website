@@ -1,0 +1,261 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+nav{
+    background:#333333;
+    height: 30px;
+    width: 100%;
+    padding-bottom: 50px;
+}
+nav ul{
+    padding: 0 18px 0 15px;
+    text-align: center;
+    margin-left: 110px;
+    
+}
+nav ul li{
+    display: inline-block;
+    line-height: 55px;
+    margin: 0 8px;
+    padding: 0 30px ;
+}
+nav ul li a{
+    color: #FFFFFF;
+    font-size: 12px;
+    border-radius: 3px;
+    padding-left: 0px;
+}
+.hero1{
+    background-image: url("./Assets/Images/heroiphone13pro.jpg");
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding-top: 3rem;
+    }
+.hero1 h1{
+    font-size: 3rem;
+    font-family: sans-serif;
+}
+.hero1 h2{
+    margin-top: -79px;
+    font-size: 2rem;
+    opacity: 0.9;
+    font-family: sans-serif;
+    padding-bottom: 1rem;
+}
+.hero1 a{
+    font-size: xx-large;
+}
+.hero2{
+    background-image: url("./Assets/Images/watch.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding-top: 0px;
+}
+.hero2 h6{
+    font-size: x-large;
+}
+.small-container{
+    display: flex;
+   
+}
+.box1{
+    background-image: url(./Assets/img/ipnone\ 13\ .png);
+    background-size: cover;
+    width: 50%;
+    height: 600px;
+    text-align: center;
+    font-size: 22px;
+    color: #1d1d1f;
+    margin: 10px;
+    line-height: 2.5rem;
+   
+}
+.box2{
+    background-image: url(./Assets/img/apple\ shot\ -on\ \(2\).png);
+    background-size: cover;
+    width: 50%;
+    height: 600px;
+    text-align: center;
+    font-size: 22px;
+    color: #1d1d1f;
+    margin: 10px;
+  
+}
+.box1 .one{
+    color: #F5F5F7;
+    font-size: 50px;
+    font-weight: bold;
+}
+.box1 .two{
+    font-weight: bold;
+    font-size: 40px;
+    color: #FEC2EB;
+}
+.box2 .one{
+    color: #1D1D1F;
+    font-size: 50px;
+    font-weight: bold;
+}
+.box2 .two{
+    font-size: 22px;
+    color: #1D1D1F;
+}
+.small-container{
+    display: flex;
+   
+}
+.box3{
+    background-image: url(./Assets/img/promo_watch_heart\ \(1\).png);
+    background-size: cover;
+    width: 50%;
+    height: 600px;
+    text-align: center;
+    font-size: 22px;
+    color: #1d1d1f;
+    margin: 10px;
+   
+}
+.box4{
+    background-image: url(./Assets/img/promo_watch.png);
+    background-size: cover;
+    width: 50%;
+    height: 600px;
+    text-align: center;
+    font-size: 22px;
+    color: #1d1d1f;
+    margin: 10px;
+  
+}
+.box3 .one{
+    color: #C65D1E;
+    font-size: small;
+}
+.box3 .two{
+    font-size: 40px;
+    font-weight: bold;
+}
+.box4 .two{
+    font-weight: bold;
+    font-size: 40px;
+    color: #F5F5F7;
+}
+.box4 .three{
+    color: #F5F5F7;
+    font-size: 25px;
+}
+span{
+    color: blue;
+}
+.small-container{
+    display: flex;
+}
+.box5{
+    background-image: url(./Assets/Images/apple\ card\ .png);
+    background-size: cover;
+    width: 50%;
+    height: 700px;
+    text-align: center;
+    font-size: 22px;
+    color: #F5F5F7;
+    margin: 10px;
+}
+.box6{
+    background-image: url(./Assets/Images/promo_suspicion.png);
+    background-size: cover;
+    width: 50%;
+    height: 700px;
+    text-align: center;
+    font-size: 22px;
+    color: #1D1D1F;
+    margin: 10px;
+}
+.eight{
+    font-size: 25px;
+    color: #464648;
+}
+
+.hero3{
+    background-image: url("./Assets/Images/promo22.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding-top: 3rem;
+}
+.hero4 p{
+    padding-bottom: 9px;
+    color: darkslategrey;
+    margin-right: -54px;
+    
+}
+.heading{
+    text-align: center;
+    background: rgb(241, 231, 231);
+    color: rgb(121, 84, 84);
+    height: 50px;
+    width: 100%;
+    display: inline-block;
+    line-height: 55px;
+  
+    
+}
+.hero{
+    width: inherit;
+    height: 550px;
+    padding-bottom: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 295px;
+    margin-bottom: -160px;
+}
+
+.content-wrapper img{
+    width: 100%;
+    height: 500px
+   
+}
+.text-wrapper{
+    width: 100%;
+    position: relative;
+    margin-top: -30%;
+}
+.text-wrapper h1,h4{
+    text-align: center;
+    color: #000;
+    font-size: 50px;
+    margin-top: 3px;
+}
+
+.text1{
+    height: 50%;
+    font-size: 16px;
+    width: 100%;
+    padding-left: 19rem;
+}
+
+.one img{
+    width: 100%;
+    height: 500px;
+    padding-top: 235px;
+}
+.text{
+   background-image: url("./Assets/Images/heroiphone13pro.jpg");
+   background-position: center;
+   background-size: cover;
+   padding-bottom: 5rem;
+}
+.text,h1,h4{
+    padding-bottom: 5rem;
+}
+
+
+
